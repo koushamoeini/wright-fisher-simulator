@@ -204,11 +204,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Kousha Moeini**
+- Email: koushamoeini@gmail.com
 - GitHub: [@koushamoeini](https://github.com/koushamoeini)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+---
 
 ## 📚 References
 
@@ -216,10 +215,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Fisher, R. A. (1930). *The Genetical Theory of Natural Selection*. Oxford University Press.
 - Ewens, W. J. (2004). *Mathematical Population Genetics*. Springer.
 
-## 🙏 Acknowledgments
 
-This project was developed as part of population genetics research to understand the dynamics of allele frequency changes in finite populations.
-
----
-
-**Note**: Each simulation run will produce different results due to the stochastic nature of the Wright-Fisher model. Run simulations multiple times to observe the range of possible outcomes.
